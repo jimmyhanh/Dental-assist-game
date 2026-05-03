@@ -1,0 +1,30 @@
+# Unity generated
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# Auto-generated
+*.pidb
+*.unityproj
+*.suo
+*.user
+*.userprefs
+*.booproj
+
+# Visual Studio cache/options directory
+.vs/
+
+# OS / Rider
+.DS_Store
+Thumbs.db
+.idea/
+
+# Unity3D generated meta files (commit these)
+# *.meta
+
+# Unity3D generated file on crash reports
+sysinfo.txt
